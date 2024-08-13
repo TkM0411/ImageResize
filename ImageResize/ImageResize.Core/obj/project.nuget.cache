@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hFI9Ph9oQKrnwg0OzGsV3cPIaVwbuymS5RzePAdfn9kVWIQiHDXxjCdaBNAOcZP7PqnghiSFTnx4QeTUe5WcRg==",
+  "success": true,
+  "projectFilePath": "D:\\My Programs\\C# .NET\\ImageResize\\ImageResize\\ImageResize.Core\\ImageResize.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tushar\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\Tushar\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\Tushar\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512"
+  ],
+  "logs": []
+}

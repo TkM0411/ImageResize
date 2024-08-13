@@ -1,0 +1,50 @@
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.exe
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.deps.json
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.runtimeconfig.json
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.dll
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.pdb
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.AssemblyReference.cache
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.MainWindow.resources
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.GenerateResource.cache
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfoInputs.cache
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfo.cs
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CoreCompileInputs.cache
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.dll
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\obj\Debug\net7.0-windows\refint\ImageResizer.dll
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.pdb
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.genruntimeconfig.cache
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\obj\Debug\net7.0-windows\ref\ImageResizer.dll
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\bin\Debug\net7.0-windows\SkiaSharp.dll
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\bin\Debug\net7.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\bin\Debug\net7.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\bin\Debug\net7.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CopyComplete
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\bin\Debug\net7.0-windows\ImageResize.Core.dll
+D:\My Programs\AWS Lambda Functions\ImageGalleryGenerator\ImageResizer\bin\Debug\net7.0-windows\ImageResize.Core.pdb
+D:\My Programs\C# .NET\ImageResize\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.exe
+D:\My Programs\C# .NET\ImageResize\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.deps.json
+D:\My Programs\C# .NET\ImageResize\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.runtimeconfig.json
+D:\My Programs\C# .NET\ImageResize\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.dll
+D:\My Programs\C# .NET\ImageResize\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.pdb
+D:\My Programs\C# .NET\ImageResize\ImageResizer\bin\Debug\net7.0-windows\SkiaSharp.dll
+D:\My Programs\C# .NET\ImageResize\ImageResizer\bin\Debug\net7.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\My Programs\C# .NET\ImageResize\ImageResizer\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\My Programs\C# .NET\ImageResize\ImageResizer\bin\Debug\net7.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\My Programs\C# .NET\ImageResize\ImageResizer\bin\Debug\net7.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\My Programs\C# .NET\ImageResize\ImageResizer\bin\Debug\net7.0-windows\ImageResize.Core.dll
+D:\My Programs\C# .NET\ImageResize\ImageResizer\bin\Debug\net7.0-windows\ImageResize.Core.pdb
+D:\My Programs\C# .NET\ImageResize\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.AssemblyReference.cache
+D:\My Programs\C# .NET\ImageResize\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.MainWindow.resources
+D:\My Programs\C# .NET\ImageResize\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.GenerateResource.cache
+D:\My Programs\C# .NET\ImageResize\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Programs\C# .NET\ImageResize\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfoInputs.cache
+D:\My Programs\C# .NET\ImageResize\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfo.cs
+D:\My Programs\C# .NET\ImageResize\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CoreCompileInputs.cache
+D:\My Programs\C# .NET\ImageResize\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CopyComplete
+D:\My Programs\C# .NET\ImageResize\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.dll
+D:\My Programs\C# .NET\ImageResize\ImageResizer\obj\Debug\net7.0-windows\refint\ImageResizer.dll
+D:\My Programs\C# .NET\ImageResize\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.pdb
+D:\My Programs\C# .NET\ImageResize\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.genruntimeconfig.cache
+D:\My Programs\C# .NET\ImageResize\ImageResizer\obj\Debug\net7.0-windows\ref\ImageResizer.dll
